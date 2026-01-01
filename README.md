@@ -80,7 +80,7 @@
   - 💼 Project Roles: 将 [YourProject] 替换为你参与的真实项目名称（支持 Markdown 链接格式）
 -->
 - 🎓 **Identity**: An Ordinary Developer & University Student & Skilled Vibe Coding Practitioner
-- 🛠️ **Tech Focus**: 
+- 🛠️ **Tech Focus**: System Design | Code Refactoring | Intelligent Tool Development
 - 📷 **Hobbies**: Programming, Gaming
 - 💼 **Project Roles**: Maintainer of **[Telegram-Chatbot](https://github.com/AsdfAlex-learning/TelegramChatbot)**
 - ⚡ **Fun Fact**: I can center a div (sometimes).
