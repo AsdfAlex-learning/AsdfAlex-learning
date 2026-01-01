@@ -184,9 +184,9 @@
   如果你没有配置 WakaTime，可以手动修改下方的百分比和进度条长度。
   或者直接删除整个 <div align="center"> ... </div> 块。
 -->
-<code>Morning</code>   ███████░░░░ 70% <br>
+<code>Morning</code>   ██░░░░░░░░░ 20% <br>
 <code>Afternoon</code> ████░░░░░░░ 40% <br>
-<code>Evening</code>   █████████░░ 90%
+<code>Evening</code>   █████████░░ 90% <br>
 
 </div>
 
