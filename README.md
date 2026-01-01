@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hello World! | Salut! | 你好! | こんにちは!
+# Hello World! | 你好! 
 
 <!-- 
   【自定义指南 - 版本号】
@@ -13,14 +13,14 @@
   下方是你的身份关键词，你可以随意修改 emoji 和文字。
   例如：把 "Docker Enthusiast" 改为 "K8s Master"
 -->
-### 💻 Try to be a Full Stack Developer | 🎮 Gamer | 
+### 💻 Independent developer | 🎮 Gamer | In the process of architectural thinking learning
 
 <!-- 
   【自定义指南 - 个人简介】
   下方引用块是你的个性签名。
   请直接修改引号内的文字。
 -->
-> "A former student of CS who was once in a complete mess, but now is following the fox girl that appeared in his life"
+> "A student of CS who was once in a complete mess, but now is following the fox girl that appeared in his life"
 
 </div>
 
@@ -62,19 +62,7 @@
   <img src="https://img.shields.io/github/stars/AsdfAlex-learning?label=Stars&style=social" alt="Stars" />
 </a>
 
-<br>
-
-<!-- 
-  【自定义指南 - 联系方式】
-  请修改 `href` 引号内的链接为你自己的地址。
-  例如：
-  - 将 https://your-website.com 改为你的博客地址
-  - 将 your-email@example.com 改为你的真实邮箱
--->
-<a href="https://your-website.com">
-  <img src="https://img.shields.io/badge/Website-Portfolio-blue?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website"/>
-</a>
-<a href="mailto:your-email@example.com">
+<a href="mailto:wenruialex@gmail.com">
   <img src="https://img.shields.io/badge/Email-Contact%20Me-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
 
@@ -91,7 +79,7 @@
   - 🛠️ Tech Focus: 修改你关注的技术领域
   - 💼 Project Roles: 将 [YourProject] 替换为你参与的真实项目名称（支持 Markdown 链接格式）
 -->
-- 🎓 **Identity**: An Ordinary Developer & University Student & Vibe-coding User
+- 🎓 **Identity**: An Ordinary Developer & University Student & Skilled Vibe Coding Practitioner
 - 🛠️ **Tech Focus**: 
 - 📷 **Hobbies**: Programming, Gaming
 - 💼 **Project Roles**: Maintainer of **[Telegram-Chatbot](https://github.com/AsdfAlex-learning/TelegramChatbot)**
@@ -101,7 +89,46 @@
   【自定义指南 - 座右铭】
   修改下方引用块的内容，可以是一句代码格言，也可以是喜欢的台词。
 -->
-> "Code is like humor. When you have to explain it, it’s bad."
+> "Programming used to be my way of escape, but now I hope it becomes my hobby."
+
+---
+
+<!-- 
+  【自定义指南 - 项目经历】
+  下方内容展示了你的核心项目经验。
+  如需修改：
+  1. 链接：[项目名](URL)
+  2. 描述：直接编辑文本内容
+-->
+### 🚀 Project Journey & Practice
+
+> "From 0 to 1: Cultivating Architectural Thinking."
+> While I am still working towards managing large-scale systems, my independent projects have taught me the loop of **Requirements → Tech Selection → Iteration → Optimization**.
+
+#### 🔍 [EBLPR System (License Plate Recognition)](https://github.com/AsdfAlex-learning/EBLPR_System)
+*   **Goal**: Lightweight recognition avoiding heavy deep learning models.
+*   **Evolution**:
+    1.  **Prototype**: Started with MATLAB; faced performance bottlenecks due to unstructured logic.
+    2.  **Refactor**: Switched to **OpenCV**, redesigning the **plate localization algorithm** from scratch.
+    3.  **Outcome**: Solved performance issues and realized the **critical role of early architectural design**.
+
+#### 💬 [Telegram Chatbot](https://github.com/AsdfAlex-learning/TelegramChatbot)
+*   **Goal**: Human-like interaction experience.
+*   **Evolution**:
+    1.  **Interaction**: Moved from simple Q&A to **fragmented responses & simulated typing delays**.
+    2.  **Memory**: Designed a **Long/Short-Term Memory** mechanism integrated with AI.
+    3.  **Stability**: Focused on **extensibility**, fixing legacy bugs while adding proactive messaging.
+
+#### 📧 [Mail Assistant](https://github.com/AsdfAlex-learning/MailAssistant)
+*   **Goal**: Data-driven, lightweight email tool.
+*   **Evolution**:
+    1.  **Data**: Filtered 500k raw entries down to a 6k core dataset using a "Vibe Coding" approach.
+    2.  **Implementation**: API-based dataset labeling to power core features.
+    3.  **Reflection**: Recognized early limitations in **extensibility**, learning valuable lessons for future planning.
+
+#### 📌 Personal Philosophy
+> True architecture is about trade-offs under **scale, complexity, and high availability**.
+> My current projects are my "Architectural Prototypes" — the lessons learned from refactoring and debugging are my stepping stones toward becoming a System Architect.
 
 ---
 
@@ -127,36 +154,24 @@
 -->
 
 <p align="center">
+
   ### **Core Technologies**
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=py,java,js,html,css,bootstrap,mysql,sqlite,anaconda" />
   </a>
-
 
   ### **Development Tools**
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=vscode,idea,pycharm,git,github,latex,linux,ubuntu" />
   </a>
 
+  ### Such a technical stack is quite different from that of that fox girl. I hope I can be as good as her.
 </p>
 </div>
 
 ---
 
 ### 📊 Coding Insights
-
-<!-- 
-  【自定义指南 - WakaTime 编程时间统计】
-  这是一个高级功能，需要配合 GitHub Actions 使用。
-  
-  启用步骤：
-  1. 注册 https://wakatime.com 并安装 IDE 插件。
-  2. 获取 WakaTime API Key。
-  3. 在本 GitHub 仓库的 Settings -> Secrets 中添加 WAKATIME_API_KEY。
-  4. 配置 GitHub Action (如 waka-readme-stats.yml) 来自动更新下方区域。
-  
-  ⚠️ 注意：请勿删除 <!--START_SECTION:waka--> 这种注释标记，程序靠它定位位置。
--->
 
 <!--START_SECTION:waka-->
 <!-- 这里的内容会被 GitHub Action 自动替换，目前为空是正常的 -->
